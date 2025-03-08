@@ -18,7 +18,7 @@ export default function Page() {
           >
             <strong>Welcome to Acme.</strong> This is the example for the{" "}
             <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Next.js Learn Course
+              Next.js Learn Course a
             </a>
             , brought to you by Vercel.
           </p>
@@ -38,7 +38,7 @@ export default function Page() {
             height={760}
             className="hidden md:block"
           />
-          <Image  
+          <Image
             src="/hero-mobile.png"
             alt="Screenshots of the dashboard project showing mobile version"
             width={560}
